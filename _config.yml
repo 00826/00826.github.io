@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: overflowed github page
 description: test
-markdown: kramdown
+markdown: GFM
