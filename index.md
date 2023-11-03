@@ -1,4 +1,4 @@
-[<center><img src="Images/plink.gif" width="120"/></center>](luna)
+[<center><img src="Images/plink.gif" width="128"/></center>](luna)
 
 ## <center> 00826.github.io </center>
 
@@ -7,8 +7,9 @@
 <center>
 
 |number lore|cat|links|
-|:---------:|:-:|:----|
+|:-:|:-:|:-|
 |&nbsp;〇&nbsp;八&nbsp;二&nbsp;六<br>00&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;6 <br>&nbsp;o ba fu ro <br> overflowed|[<img src="Images/uni-fast.gif" width="200"/>](unifast)|[Linktree](https://linktr.ee/ovar) <i>(full list of links here)</i><br>[Github](https://github.com/00826)<br>[Twitter](https://twitter.com/ovarflowed)<i> (Best reachable via Twitter!)</i><br>[Youtube](https://www.youtube.com/@ovarflowed)<br>[Roblox](https://www.roblox.com/users/24103210/profile)|
+||||
 
 </center>
 
