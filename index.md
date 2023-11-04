@@ -1,8 +1,6 @@
-[<center><img src="Images/plink.gif" width="128"/></center>](luna)
+### <center> 00826.github.io </center>
 
-## <center> 00826.github.io </center>
-
-### <center> born to :3<br>forced to :<zero-width space>)
+#### <center> born to :3<br>forced to :<zero-width space>)
 
 <center>
 
