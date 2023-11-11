@@ -18,11 +18,35 @@
 
 ## List of works:
 
+---
+
+[<img src="https://github.com/00826/vanilla/raw/main/Vanilla/Assets/vanilla-ico.svg" width="128"/>](vanillasvg)
+
+### Vanilla [(Link)](https://github.com/00826/vanilla)
+
+#### Open-source code library <i>(November 2023)</i>
+
+#### a roblox-luau library with functions, wrappers and features that complement vanilla roblox</i>
+
+#### Software used:
+
+- Visual Studio Code
+- Github/Github Desktop
+
+
+#### Acknowledgements
+
+- `ProfileService` by madstudioroblox
+
+##### *Vanilla* began as a Utils module, but became more akin to a library as its scope and flexibility grew
+
+---
+
 [<img src="Images/slxthumb.png" width="450"/>](slxthumb)
 
 ### Smash Legends X [(Link)](https://www.roblox.com/games/11586481578/)
 
-#### Solo full-stack developer <i>(November 2022 - )</i>
+#### Solo full-stack developer <i>(November 2022)</i>
 
 - Solo-developed game (Lua, json)
 - Managed workflow with Github, Visual Studio Code, Rojo
