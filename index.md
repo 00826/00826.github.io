@@ -20,25 +20,27 @@
 
 ---
 
-[<img src="https://github.com/00826/vanilla/raw/main/Vanilla/Assets/vanilla-ico.svg" width="128"/>](vanillasvg)
+[<img src="https://raw.githubusercontent.com/00826/geis-rbx/main/icon.png" width="150"/>](geis-rbx)
 
-### Vanilla [(Link)](https://github.com/00826/vanilla)
+### geis-rbx [(Link)](https://github.com/00826/geis-rbx)
 
-#### Open-source code library <i>(November 2023)</i>
+#### Open-source roblox-luau benchmarking tool <i>(May 2024)</i>
 
-#### a roblox-luau library with functions, wrappers and features that complement vanilla roblox</i>
+#### /ɡɛʃ/ "geis" an extremely straightforward open-source function benchmarking project with a simple single-table interface</i>
 
 #### Software used:
 
 - Visual Studio Code
 - Github/Github Desktop
+- The Adobe Photoshop Pencil Tool
 
 
 #### Acknowledgements
 
-- `ProfileService` by madstudioroblox
+- `evaera.vscode-rojo` by evaera
+- `JohnnyMorganz.luau-lsp` by JohnnyMorganz
 
-##### *Vanilla* began as a Utils module, but became more akin to a library as its scope and flexibility grew
+##### $5 function timer = extortion
 
 ---
 
