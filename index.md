@@ -1,43 +1,28 @@
-<head>
-  <link rel="shortcut icon" type="image/png" href="Images/checker.png">
-</head>
-
 <div align="center">
   <h3>00826.github.io</h3>
 </div>
 
 <div align="center">
-  <h3>
-    born to :3<br>
-    forced to :)</br>
-  </h3>
-</div>
 
-<div align="center">
-  
-|number lore|cat|links|
+|number lore|born to :3|forced to :᠎)</br>|
 |:-:|:-:|:-|
 |&nbsp;〇&nbsp;八&nbsp;二&nbsp;六<br>00&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;6 <br>&nbsp;o ba fu ro <br>overflowed|[<img src="Images/uni-fast.gif" width="200"/>](unifast)|[Linktree](https://linktr.ee/ovar) <i>(full list of links here)</i><br>[Github](https://github.com/00826)<br>[Twitter](https://twitter.com/ovarflowed)<i> (Best reachable via Twitter!)</i><br>[Youtube](https://www.youtube.com/@ovarflowed)<br>[Roblox](https://www.roblox.com/users/24103210/profile)|
 </div>
 
-## List of works:
+## gallery of works:
 
 ---
 
-[<img src="https://raw.githubusercontent.com/00826/geis-rbx/main/icon.png" width="150"/>](geis-rbx)
+## geis-rbx [(🔗)](https://github.com/00826/geis-rbx)
 
-### geis-rbx [(Link)](https://github.com/00826/geis-rbx)
+|<img src="https://raw.githubusercontent.com/00826/geis-rbx/main/icon.png" width="120"/>|**open-source roblox-luau benchmarking tool** <i>(May 2024)</i> <br><br>*geis (IPA: /ɡɛʃ/) an extremely straightforward open-source function benchmarker with a  single-table interface*|
+|-|-|
 
-#### Open-source roblox-luau benchmarking tool <i>(May 2024)</i>
+#### Software used
 
-#### /ɡɛʃ/ "geis" an extremely straightforward open-source function benchmarking project with a simple single-table interface</i>
-
-#### Software used:
-
-- Visual Studio Code
-- Github/Github Desktop
 - The Adobe Photoshop Pencil Tool
-
+- Visual Studio Code
+- Roblox Studio
 
 #### Acknowledgements
 
@@ -48,39 +33,43 @@
 
 ---
 
-[<img src="Images/slxthumb.png" width="450"/>](slxthumb)
+## Smash Legends X [(🔗)](https://www.roblox.com/games/11586481578/)
 
-### Smash Legends X [(Link)](https://www.roblox.com/games/11586481578/)
+|<img src="Images/slxthumb.png" width="650"/>|**Solo developer** <i>(November 2022)</i> <br><br>*because of the strong foundation i built with Smash Legends, i made really big improvements across all facets of game development*|
+|-|-|
 
-#### Solo full-stack developer <i>(November 2022)</i>
-
-- Solo-developed game (Lua, json)
-- Managed workflow with Github, Visual Studio Code, Rojo
-
-#### Software used:
+#### Software used
 
 - Visual Studio Code
-- Github/Github Desktop
-- Adobe Illustrator CC
-- Adobe Photoshop CC
+- Adobe Illustrator
+- Adobe Photoshop
 - Blender
 - Roblox Studio
+- Moon Animator
 
-##### *Smash Legends X (stylized: SLX)* is the successor to *Smash Legends* with a fully reworked codebase and greatly improved gameplay, visuals, and overall design.
+#### Acknowledgements
+
+- `evaera.vscode-rojo` by evaera
+- `Nightrains.robloxlsp` by Nightrains
+- `Moon Animator` by six
+
+##### *Smash Legends X (stylized as SLX)* is the successor to *Smash Legends* with a fully reworked codebase and greatly improved gameplay, visuals, and overall design.
 
 ---
 
-### Smash Legends [(Link)](https://www.roblox.com/games/5630129588/)
+## Smash Legends [(🔗)](https://www.roblox.com/games/5630129588/)
 
-#### Solo full-stack developer <i>(October 2020 - May 2021)</i>
+|*no thumbnail :᠎(* | **Solo developer** <i>(October 2020)</i> <br><br>*my first roblox game evar*<br>*had a lot of fun learning Lua, Blender, and Adobe Illustrator/Photoshop*|
+|-|-|
 
-- Solo-developed game (Lua)
-- Managed workflow with Roblox Studio
+### 
 
-#### Software used:
 
-- Adobe Illustrator CC
-- Adobe Photoshop CC
+
+#### Software used
+
+- Adobe Illustrator
+- Adobe Photoshop
 - Blender
 - Roblox Studio
 
