@@ -1,12 +1,10 @@
 <div align="center">
-  <h3>00826.github.io</h3>
-</div>
-
-<div align="center">
+<h3>00826.github.io</h3>
 
 |number lore|born to :3|forced to :᠎)</br>|
 |:-:|:-:|:-|
 |&nbsp;〇&nbsp;八&nbsp;二&nbsp;六<br>00&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;6 <br>&nbsp;o ba fu ro <br>overflowed|[<img src="Images/uni-fast.gif" width="200"/>](unifast)|[Linktree](https://linktr.ee/ovar) <i>(full list of links here)</i><br>[Github](https://github.com/00826)<br>[Twitter](https://twitter.com/ovarflowed)<i> (Best reachable via Twitter!)</i><br>[Youtube](https://www.youtube.com/@ovarflowed)<br>[Roblox](https://www.roblox.com/users/24103210/profile)|
+
 </div>
 
 ## gallery of works:
@@ -14,8 +12,7 @@
 ---
 
 ## geis-rbx [(🔗)](https://github.com/00826/geis-rbx)
-
-|<img src="https://raw.githubusercontent.com/00826/geis-rbx/main/icon.png" width="120"/>|**open-source roblox-luau benchmarking tool** <i>(May 2024)</i> <br><br>*geis (IPA: /ɡɛʃ/) an extremely straightforward open-source function benchmarker with a  single-table interface*|
+|<img src="https://raw.githubusercontent.com/00826/geis-rbx/main/icon.png" width="120"/>|<div style="text-align: left"> **open-source roblox-luau benchmarking tool** <i>(May 2024)</i> <br><br>*geis (IPA: /ɡɛʃ/) an extremely straightforward open-source function benchmarker with a  single-table interface* </div>|
 |-|-|
 
 #### Software used
@@ -35,7 +32,7 @@
 
 ## Smash Legends X [(🔗)](https://www.roblox.com/games/11586481578/)
 
-|<img src="Images/slxthumb.png" width="650"/>|**Solo developer** <i>(November 2022)</i> <br><br>*because of the strong foundation i built with Smash Legends, i made really big improvements across all facets of game development*|
+|<img src="Images/slxthumb.png" width="650"/>|<div style="text-align: left"> **Solo developer** <i>(November 2022)</i> <br><br>*because of the strong foundation i built with Smash Legends, i made really big improvements across all facets of game development* </div>|
 |-|-|
 
 #### Software used
@@ -59,7 +56,7 @@
 
 ## Smash Legends [(🔗)](https://www.roblox.com/games/5630129588/)
 
-|*no thumbnail :᠎(* | **Solo developer** <i>(October 2020)</i> <br><br>*my first roblox game evar*<br>*had a lot of fun learning Lua, Blender, and Adobe Illustrator/Photoshop*|
+|*no thumbnail :᠎(* |<div style="text-align: left"> **Solo developer** <i>(October 2020)</i> <br><br>*my first roblox game evar*<br>*had a lot of fun learning Lua, Blender, and Adobe Illustrator/Photoshop* </div>|
 |-|-|
 
 ### 
