@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" type="image/png" href="Images/checker.png">
+</head>
+
 <div align="center">
   <h3>00826.github.io</h3>
 </div>
