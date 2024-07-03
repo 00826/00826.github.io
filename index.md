@@ -13,6 +13,24 @@
 
 ---
 
+## konbini [(🔗)](https://github.com/00826/konbini)
+|<img src="https://raw.githubusercontent.com/00826/konbini/main/konbini-ico.svg" width="120"/>|<div style="text-align: left"> **a shelf of roblox-luau convenience modules** <i>(July 2024)</i> <br><br>*konbini is a collection of modules that started as a util module and ended as a library* </div>|
+|-|-|
+
+#### Software used
+
+- The Adobe Illustrator Line Tool
+- Visual Studio Code
+
+#### Acknowledgements
+
+- `evaera.vscode-rojo` by evaera
+- `JohnnyMorganz.luau-lsp` by JohnnyMorganz
+
+##### if the familymart jingle was a github repo
+
+---
+
 ## geis-rbx [(🔗)](https://github.com/00826/geis-rbx)
 |<img src="https://raw.githubusercontent.com/00826/geis-rbx/main/icon.png" width="120"/>|<div style="text-align: left"> **open-source roblox-luau benchmarking tool** <i>(May 2024)</i> <br><br>*geis (IPA: /ɡɛʃ/) an extremely straightforward open-source function benchmarker with a  single-table interface* </div>|
 |-|-|
