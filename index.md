@@ -18,7 +18,7 @@
 |[/geis-rbx](https://github.com/00826/geis-rbx) (May 2024)|$5 function timer = extortion|
 |[/konbini](https://github.com/00826/konbini) (July 2024)|a shelf of roblox-luau convenience modules|
 |[/questmodule](https://github.com/00826/questmodule) (November 2024)|linear, multi-step quest handler|
-|[/castable](https://github.com/00826/questmodule) (December 2024)|no-network-roundtrip replication|
+|[/castable](https://github.com/00826/castable) (December 2024)|no-network-roundtrip replication|
 
 ## gallery of works:
 
