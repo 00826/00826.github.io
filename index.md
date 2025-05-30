@@ -4,53 +4,46 @@
 
 <div align="center">
 
-|number lore|born to :3|forced to :᠎)</br>|
+|number lore|T___T 🐔|best reachable via twitter!</br>|
 |:-:|:-:|:-|
-|&nbsp;〇&nbsp;八&nbsp;二&nbsp;六<br>00&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;6 <br>&nbsp;o ba fu ro <br>overflowed|[<img src="Images/uni-fast.gif" width="200"/>](unifast)|[Linktree](https://linktr.ee/ovar) <i>(full list of links here)</i><br>[Github](https://github.com/00826)<br>[Twitter](https://twitter.com/ovarflowed)<i> (Best reachable via Twitter!)</i><br>[Youtube](https://www.youtube.com/@ovarflowed)<br>[Roblox](https://www.roblox.com/users/24103210/profile)|
+|&nbsp;〇&nbsp;八&nbsp;二&nbsp;六<br>00&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;6 <br>&nbsp;o ba fu ro <br>overflowed|[<img src="Images/geigejihui.png" width="200"/>](everytiem)|[Github](https://github.com/00826)<br>[Twitter](https://twitter.com/ovarflowed)<br>[Youtube](https://www.youtube.com/@ovarflowed)<br>[Roblox](https://www.roblox.com/users/24103210/profile)|
 </div>
+
+## table of utils:
+
+|thing|what it does|
+|-|-|
+|[/geis-rbx](https://github.com/00826/geis-rbx) (May 2024)|$5 function timer = extortion|
+|[/konbini](https://github.com/00826/konbini) (July 2024)|a shelf of roblox-luau convenience modules|
+|[/questmodule](https://github.com/00826/questmodule) (November 2024)|linear, multi-step quest handler|
+|[/castable](https://github.com/00826/questmodule) (December 2024)|no-network-roundtrip replication|
 
 ## gallery of works:
 
 ---
 
-## konbini [(🔗)](https://github.com/00826/konbini)
-|<img src="https://raw.githubusercontent.com/00826/konbini/main/konbini-ico.svg" width="120"/>|<div style="text-align: left"> **a shelf of roblox-luau convenience modules** <i>(July 2024)</i> <br><br>*konbini is a collection of modules that started as a util module and ended as a library* </div>|
+### sixes [(🔗)](https://github.com/00826/konbini)
+|<img src="Images/sixes-square.png" width="120"/>|<div style="text-align: left"> **Solo developer** <i>(June 2024)</i> <br><br>*a quick volleyball game made in about a month and some change* </div>|
 |-|-|
 
 #### Software used
 
-- The Adobe Illustrator Line Tool
 - Visual Studio Code
-
-#### Acknowledgements
-
-- `evaera.vscode-rojo` by evaera
-- `JohnnyMorganz.luau-lsp` by JohnnyMorganz
-
-##### if the familymart jingle was a github repo
-
----
-
-## geis-rbx [(🔗)](https://github.com/00826/geis-rbx)
-|<img src="https://raw.githubusercontent.com/00826/geis-rbx/main/icon.png" width="120"/>|<div style="text-align: left"> **open-source roblox-luau benchmarking tool** <i>(May 2024)</i> <br><br>*geis (IPA: /ɡɛʃ/) an extremely straightforward open-source function benchmarker with a  single-table interface* </div>|
-|-|-|
-
-#### Software used
-
-- The Adobe Photoshop Pencil Tool
-- Visual Studio Code
+- Adobe CC (Illustrator, Photoshop, Premiere Pro)
+- Blender
 - Roblox Studio
 
 #### Acknowledgements
 
 - `evaera.vscode-rojo` by evaera
 - `JohnnyMorganz.luau-lsp` by JohnnyMorganz
+- `Moon Animator` by six
 
-##### $5 function timer = extortion
+##### ball sfx was recorded from a slightly-deflated Molten volleyball
 
 ---
 
-## Smash Legends X [(🔗)](https://www.roblox.com/games/11586481578/)
+### Smash Legends X [(🔗)](https://www.roblox.com/games/11586481578/)
 
 |<img src="Images/slxthumb.png" width="650"/>|<div style="text-align: left"> **Solo developer** <i>(November 2022)</i> <br><br>*because of the strong foundation i built with Smash Legends, i made really big improvements across all facets of game development* </div>|
 |-|-|
@@ -58,11 +51,9 @@
 #### Software used
 
 - Visual Studio Code
-- Adobe Illustrator
-- Adobe Photoshop
+- Adobe CC (Illustrator, Photoshop)
 - Blender
 - Roblox Studio
-- Moon Animator
 
 #### Acknowledgements
 
@@ -74,15 +65,14 @@
 
 ---
 
-## Smash Legends [(🔗)](https://www.roblox.com/games/5630129588/)
+### Smash Legends [(🔗)](https://www.roblox.com/games/5630129588/)
 
 |*no thumbnail :᠎(* |<div style="text-align: left"> **Solo developer** <i>(October 2020)</i> <br><br>*my first roblox game evar*<br>*had a lot of fun learning Lua, Blender, and Adobe Illustrator/Photoshop* </div>|
 |-|-|
 
 #### Software used
 
-- Adobe Illustrator
-- Adobe Photoshop
+- Adobe Creative Suite 2020 (Illustrator, Photoshop)
 - Blender
 - Roblox Studio
 
