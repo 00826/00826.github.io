@@ -10,23 +10,6 @@
 </div>
 
 
-<div align="center">
-
-|a|b|c|
-|:-:|:-:|:-|
-|plz|center|me|
-</div>
-
-
-<div align="center">
-
-|a|b|c|
-|:-:|:-:|:-|
-|plz|center|me|
-
-</div>
-
-
 ## table of utils:
 
 |thing|what it does|
