@@ -21,7 +21,7 @@
 
 ## gallery of works:
 
-### fruit 2 [(🔗)](https://www.roblox.com/games/-/) link tbd
+### fruit 2 [(🔗)](https://www.roblox.com/games/111740486589224/) link tbd
 |<img src="Images/f2 square.png" width="120"/>|<div style="text-align: left"> **Duo developers** <i>(June 2025)</i> <br><br>*a battleground in 2025 that doesn't use hitstuns (shocker)*</div>|
 |-|-|
 
