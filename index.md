@@ -1,5 +1,6 @@
 <div align="center">
-  <h3>00826.github.io</h3>
+  <h3>welcome to my github page</h3>
+  this table should be center-aligned :/
 </div>
 
 
@@ -21,24 +22,42 @@
 
 ## gallery of works:
 
-### fruit 2 [(🔗)](https://www.roblox.com/games/111740486589224/)
-|<img src="Images/f2 square.png" width="120"/>|<div style="text-align: left"> **Duo developers** <i>(June 2025)</i> <br><br>*a battleground in 2025 that doesn't use hitstuns (shocker)*</div>|
+### Classy Climbing!! [(🔗)](https://www.roblox.com/games/91541928958042/)
+|<img src="Images/cc header 11.png" width="120"/>|<div style="text-align: left"> **Duo developers** <i>(August 2025)</i> <br><br>*a two-week-ish, duo-developer, one-button-game-gamejam*</div>|
 |-|-|
 
 #### Software used
 
-- Visual Studio Code
+- Adobe CC (Photoshop)
+- Blender
+
+#### Flowers given
+
+- `A Climbing Game` by TheBigC10
+- `Moon Animator` by six
+- `White Knuckle` by Dark Machine Games
+
+##### *Classy Climbing* was a broad swing at duo development, and a lot was learned by doing so!
+
+---
+
+### fruit 2 [(🔗)](https://www.roblox.com/games/111740486589224/)
+|<img src="Images/f2 square.png" width="120"/>|<div style="text-align: left"> **Solo developer** <i>(June 2025)</i> <br><br>*a battleground in 2025 that doesn't use hitstuns (shocker)*</div>|
+|-|-|
+
+#### Software used
+
 - Adobe CC (Audition, Illustrator, Photoshop, Premiere Pro)
 - Blender
 
-#### Acknowledgements
+#### Flowers given
 
-- `One Piece : Name 2` by FroZenFuRyX
 - `evaera.vscode-rojo` by evaera
 - `JohnnyMorganz.luau-lsp` by JohnnyMorganz
 - `Moon Animator` by six
+- `One Piece : Name 2` by FroZenFuRyX
 
-##### *fruit 2* ran it back to the mid-late 2010's with old school combat and visuals
+##### *fruit 2* ran it back to the mid-late 2010's with old school combat and visuals.
 
 ---
 
@@ -48,32 +67,30 @@
 
 #### Software used
 
-- Visual Studio Code
 - Adobe CC (Illustrator, Photoshop, Premiere Pro)
 - Blender
 
-#### Acknowledgements
+#### Flowers given
 
 - `evaera.vscode-rojo` by evaera
 - `JohnnyMorganz.luau-lsp` by JohnnyMorganz
 - `Moon Animator` by six
 
-##### *sixes* served as a test to see what could reasonably be done by applying loose time constraints
+##### *sixes* served as a test to see what could reasonably be done by applying loose time constraints.
 
 ---
 
 ### Smash Legends X [(🔗)](https://www.roblox.com/games/11586481578/)
 
-|<img src="Images/slxthumb.png" width="650"/>|<div style="text-align: left"> **Solo developer** <i>(November 2022)</i> <br><br>*because of the strong foundation i built with Smash Legends, i made really big improvements across all facets of game development*</div>|
+|<img src="	https://tr.rbxcdn.com/180DAY-473145a3b8287a1347accf3e1739f68f/150/150/Image/Jpeg/noFilter" width="150"/>|<div style="text-align: left"> **Solo developer** <i>(November 2022)</i> <br><br>*because of the strong foundation i built with Smash Legends, i made really big improvements across all facets of game development*</div>|
 |-|-|
 
 #### Software used
 
-- Visual Studio Code
 - Adobe CC (Illustrator, Photoshop)
 - Blender
 
-#### Acknowledgements
+#### Flowers given
 
 - `evaera.vscode-rojo` by evaera
 - `Nightrains.robloxlsp` by Nightrains
@@ -90,7 +107,7 @@
 
 #### Software used
 
-- Adobe Creative Suite 2020 (Illustrator, Photoshop)
+- Adobe CS 2020 (Illustrator, Photoshop)
 - Blender
 
 ##### *Smash Legends* began as a learning project, but became a fully fleshed-out game as I became more familiar with the Roblox Game API and more proficient in Lua.
