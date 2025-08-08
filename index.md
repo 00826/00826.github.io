@@ -1,6 +1,5 @@
 <div align="center">
   <h3>welcome to my github page</h3>
-  this table should be center-aligned :/
 </div>
 
 
@@ -37,7 +36,7 @@
 - `Moon Animator` by six
 - `White Knuckle` by Dark Machine Games
 
-##### *Classy Climbing* was a broad swing at duo development, and a lot was learned by doing so!
+##### *Classy Climbing* was a broad swing at duo development, and a lot was learned!
 
 ---
 
