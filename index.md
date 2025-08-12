@@ -21,7 +21,24 @@
 
 ## gallery of works:
 
-### Classy Climbing!! [(🔗)](https://www.roblox.com/games/91541928958042/)
+### David Bazooka Boss Fight [(🔗)](https://www.roblox.com/games/91541928958042/)
+|<img src="Images/wabba 11.png" width="120"/>|<div style="text-align: left"> **Solo developer** <i>(August 2025)</i> <br><br>*a game made in less than 86 hours for the 2025 Inspire Challenge*</div>|
+|-|-|
+
+#### Software used
+
+- Adobe CC (Illustrator)
+
+#### Flowers given
+
+- `David Baszucki` by timeforrick
+- `Moon Animator` by six
+
+##### *David Bazooka Boss Fight* is the product of on-the-fly changes and execution at a steady pace
+
+---
+
+### Classy Climbing [(🔗)](https://www.roblox.com/games/91541928958042/)
 |<img src="Images/cc header 11.png" width="120"/>|<div style="text-align: left"> **Duo developers** <i>(August 2025)</i> <br><br>*a two-week-ish, duo-developer, one-button-game-gamejam*</div>|
 |-|-|
 
