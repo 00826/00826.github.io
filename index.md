@@ -27,7 +27,8 @@
 
 #### Software used
 
-- Adobe CC (Illustrator)
+- Adobe CC (Illustrator, Photoshop, Premiere Pro)
+- Blender
 
 #### Flowers given
 
