@@ -21,6 +21,23 @@
 
 ## gallery of works:
 
+### Telamon Boss Fight [(🔗)](https://www.roblox.com/games/139039854834742/)
+|<img src="Images/wabba 11.png" width="120"/>|<div style="text-align: left"> **Solo developer** <i>(August 2025)</i> <br><br>*a game made in less than 86 hours as an entry for the 2025 inspire challenge*</div>|
+|-|-|
+
+#### Software used
+
+- Adobe CC (Illustrator, Photoshop, Premiere Pro)
+- Blender
+
+#### Flowers given
+
+- `Moon Animator` by six
+
+##### *Classy Climbing* was a broad swing at duo development, and a lot was learned!
+
+---
+
 ### Classy Climbing [(🔗)](https://www.roblox.com/games/91541928958042/)
 |<img src="Images/cc header 11.png" width="120"/>|<div style="text-align: left"> **Duo developers** <i>(August 2025)</i> <br><br>*a two-week-ish, duo-developer, one-button-game-gamejam*</div>|
 |-|-|
