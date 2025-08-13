@@ -34,7 +34,7 @@
 
 - `Moon Animator` by six
 
-##### *Classy Climbing* was a broad swing at duo development, and a lot was learned!
+##### *Telamon Boss Fight* is the product of on-the-fly changes and execution at a steady pace
 
 ---
 
