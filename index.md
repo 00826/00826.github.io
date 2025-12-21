@@ -16,6 +16,7 @@
 |-|-|
 |[/cc](https://github.com/00826/cc) (December 2025)|humanoidless player controller and replicator|
 |[/hula](https://github.com/00826/hula) (December 2025)|a table of roblox-luau convenience modules|
+|[/geis-rbx](https://github.com/00826/geis-rbx) (March 2024)|function timer|
 
 ## gallery of works:
 
