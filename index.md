@@ -15,9 +15,9 @@
 |thing|what it does|
 |-|-|
 |[/eep](https://github.com/00826/eep) (January 2026)|ephemeral entrypoint for single-placeid game instances|
-|[/cc](https://github.com/00826/cc) (December 2025)|humanoidless player controller and replicator|
+|[/cc](https://github.com/00826/cc) (December 2025)|humanoidless character controller|
 |[/hula](https://github.com/00826/hula) (December 2025)|a table of roblox-luau convenience modules|
-|[/geis-rbx](https://github.com/00826/geis-rbx) (March 2024)|function timer|
+|[/geis-rbx](https://github.com/00826/geis-rbx) (March 2024)|a function benchmarking tool|
 
 ## gallery of works:
 
