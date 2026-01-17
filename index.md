@@ -14,7 +14,7 @@
 
 |thing|what it does|
 |-|-|
-|[/ce](https://github.com/00826/ce) (January 2026)|pseudo cloudscript entrypoint for multi-use, single-placeid games|
+|[/eep](https://github.com/00826/eep) (January 2026)|ephemeral entrypoint for single-placeid game instances|
 |[/cc](https://github.com/00826/cc) (December 2025)|humanoidless player controller and replicator|
 |[/hula](https://github.com/00826/hula) (December 2025)|a table of roblox-luau convenience modules|
 |[/geis-rbx](https://github.com/00826/geis-rbx) (March 2024)|function timer|
