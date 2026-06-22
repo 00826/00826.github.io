@@ -7,7 +7,7 @@
 
 |number lore|T___T 🐔|best reachable via twitter!|
 |:-:|:-:|:-|
-|&nbsp;〇&nbsp;八&nbsp;二&nbsp;六<br>00&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;6 <br>&nbsp;o ba fu ro <br>overflowed|[<img src="Images/geigejihui.png" width="200"/>](everytiem)|[Github](https://github.com/00826)<br>[Twitter](https://twitter.com/ovarflowed)<br>[Youtube](https://www.youtube.com/@ovarflowed)<br>[Roblox](https://www.roblox.com/users/24103210/profile)|
+|&nbsp;〇&nbsp;八&nbsp;二&nbsp;六<br>00&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;6 <br>&nbsp;o ba fu ro <br>overflowed|[<img src="Images/geigejihui.png" width="200"/>](everytiem)|[Github](https://github.com/00826)<br>[Youtube](https://www.youtube.com/@ovarflowed)<br>[Roblox](https://www.roblox.com/users/24103210/profile)|
 </div>
 
 ## standalones:
@@ -20,6 +20,25 @@
 |[/geis-rbx](https://github.com/00826/geis-rbx) (March 2024)|a function benchmarking tool|
 
 ## gallery of works:
+
+### DOUBLES VOLLEYBALL [(🔗)](https://www.roblox.com/games/90912955474159/)
+|<img src="Images/doubles-square.png" width="120"/>|<div style="text-align: left"> **Solo developer** <i>(May 2026)</i> <br><br>*a fast-paced, two-input volleyball game*</div>|
+|-|-|
+
+#### Software used
+
+- Adobe CC (Illustrator, Photoshop, Premiere Pro)
+- Blender
+- GIMP
+
+#### Flowers given
+
+- Jamie Griesemer
+- `Moon Animator` by six
+
+##### *Doubles Volleyball* was designed using Jamie Griesemer's '30 seconds of fun' as a north star
+
+---
 
 ### Telamon Boss Fight [(🔗)](https://www.roblox.com/games/139039854834742/)
 |<img src="Images/wabba 11.png" width="120"/>|<div style="text-align: left"> **Solo developer** <i>(August 2025)</i> <br><br>*a game made in less than 86 hours as an entry for the 2025 inspire challenge*</div>|
