@@ -36,7 +36,7 @@
 - Jamie Griesemer
 - `Moon Animator` by six
 
-##### *Doubles Volleyball* was designed using Jamie Griesemer's '30 seconds of fun' as a north star
+##### *DOUBLES VOLLEYBALL* was designed using Jamie Griesemer's '30 seconds of fun' as a north star
 
 ---
 
